@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    margin: 0px;
+}
+
+#head {
+    font-size: 50px;
+    margin-top:0px;
+    font-family: 'Sacramento', cursive;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.image {
+    height: 100px;
+}
+
+h3 {
+    font-size: 25px;
+    font-family: 'Train One', cursive;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+}
+
+#king {
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: white;
+}
+
+.bottom-container {
+    background-color: rgb(172, 248, 172);
+    position: relative;
+    height: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
