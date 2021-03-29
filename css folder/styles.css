@@ -13,16 +13,16 @@ hr {
     margin: 0px;
 }
 
-
 table {
-    font-size: 30px;
+    font-size: 150%;
     text-align: left;
-    padding-left: 420px;
+    margin-left: auto;
+    margin-right: auto;
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
 p {
-    font-size: 2.5rem;
+    font-size: 30px;
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
@@ -108,5 +108,5 @@ h2 {
 }
 
 .btn {
-    padding-top : 10px;
+    padding-top: 10px;
 }
